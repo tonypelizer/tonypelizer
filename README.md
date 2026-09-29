@@ -1,16 +1,14 @@
-## Hi there 👋
+# Tony Pelizer
+Full-stack software engineer building web applications and backend systems.
 
-<!--
-**tonypelizer/tonypelizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects
 
-Here are some ideas to get you started:
+| Project | Description |
+|---|---|
+| [Ourvio](https://ourvio.com) | A lightweight platform for shared accountability and task management within groups. |
+| [Emulos](https://emulos.com) | Clinical simulation system with AI-driven patients and attendings |
+| Clawbin | Minimal platform for sharing and discovering AI prompts |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+Python • TypeScript • Django • React • Vue • PostgreSQL • Docker
